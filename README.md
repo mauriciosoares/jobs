@@ -48,6 +48,8 @@
 
 ### [Front End Developer Job](http://frontenddeveloperjob.com/)
 
+### [Landing.jobs](http://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=mauriciosoares%20jobs&utm_campaign=post)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
